@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-O Conversor de Moedas é uma aplicação web simples que permite aos usuários converter valores de dólares para reais. Com uma interface intuitiva, os usuários podem inserir o valor em dólar e seu nome, e o aplicativo exibirá o valor correspondente em reais com base em uma taxa de câmbio fixa.Este projeto foi desenvolvido como parte do curso "Imersão Dev" da Alura.
+O Conversor de Moedas é uma aplicação web simples que permite aos usuários converter valores de dólares para reais. Com uma interface intuitiva, os usuários podem inserir o valor em dólar e seu nome, e o aplicativo exibirá o valor correspondente em reais com base em uma taxa de câmbio fixa. Este projeto foi desenvolvido como parte do curso "Imersão Dev" da Alura.
 
 ## Imagens
 
